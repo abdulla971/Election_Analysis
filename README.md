@@ -17,7 +17,7 @@ In this project an election audit for the Colorado Board of Elections was provid
 ## Results 
 The election analysis shows:
   * A total of 379,111 votes were casted in the election.
-    * The candidates in the election were the following:
+    * The candidates in the election were:
      * Charles Casper Stockham
      * Diana DeGette 
      * Raymon Anthony Doane
