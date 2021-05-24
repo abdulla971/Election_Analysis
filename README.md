@@ -23,13 +23,13 @@ The election analysis shows:
      * Raymon Anthony Doane
       
   * The candidate results were:
-      * 23% of total votes went to Charles Casper Stockham with 85,213 votes.
-      * 82.8% of total votes went to Diana DeGette with 272,892 votes
+      * 23.0% of total votes went to Charles Casper Stockham with 85,213 votes.
+      * 73.8% of total votes went to Diana DeGette with 272,892 votes
       * 3.1% of total votes went to Raymon Anthony Doane with 11,606 votes
       * Thus, a total of 369,711 votes.
       
   * The winner of the election was:
-      * Based on the number of votes received Charles Casper Stockham was the winner of the election with 82.8% of total votes which equates to 272,892 votes.
+      * Based on the number of votes received Charles Casper Stockham was the winner of the election with 73.8% of total votes which equates to 272,892 votes.
       
   * The counties results:
       * 10.5% of the total votes went to Jefferson county with 38,855 votes.
