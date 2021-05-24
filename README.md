@@ -40,7 +40,7 @@ The election analysis shows:
 * We observe that the largest county with the most votes was Denver county with 306,055 votes.
 
 **Here is an image of the results:**
- 
+ ![](Resources/election_results.png)
 
 ## Challenge Summary
 
